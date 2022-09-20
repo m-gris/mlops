@@ -1,0 +1,8 @@
+name: dodo_dummy_env
+
+channels: 
+  - conda-forge
+  - defaults
+ 
+ dependencies:
+  
