@@ -1,0 +1,8 @@
+name: dummy_ml_project
+
+conda_env: conda.yml 
+
+entry_points:
+  main:
+    command: >-
+      python dummy_remote_component.py 
